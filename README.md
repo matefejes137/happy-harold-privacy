@@ -9,8 +9,8 @@ The App is developed by an independent developer ("we", "us").
 
 - We do **not** ask you for your name, email address, or any account. There is no sign-up.
 - Your game progress (scores, settings, missions, medals) is stored **only on your device**.
-- The App shows ads provided by **Google AdMob** and uses **Google Firebase** (Analytics and Remote
-  Config) to understand how the game is played and to adjust game settings. These Google services
+- The App shows ads provided by **Google AdMob** and uses **Google Firebase** (Analytics, Crashlytics
+  and Remote Config) to understand how the game is played, fix crashes and adjust game settings. These Google services
   may collect certain device information as described below.
 
 ## Information stored on your device
