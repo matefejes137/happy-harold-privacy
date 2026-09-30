@@ -39,7 +39,9 @@ https://policies.google.com/technologies/partner-sites
 The App uses **Firebase Analytics** to collect anonymous usage events, such as starting and ending a
 game, the score and depth reached, and whether an ad was shown. This helps us improve the game. The
 App also uses **Firebase Remote Config** to receive game settings (for example, how often ads are
-shown). Firebase may collect an app-instance identifier and device information.
+shown). The App uses **Firebase Crashlytics** to send crash reports (a stack trace, device model,
+Android version, app version and the game state at the time of the crash, such as the depth
+reached) so we can fix bugs. Firebase may collect an app-instance identifier and device information.
 Firebase privacy information: https://firebase.google.com/support/privacy
 
 ## Your choices and consent
